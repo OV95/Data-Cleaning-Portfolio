@@ -1,7 +1,3 @@
 # Data Analyst Portfolio Project Repository
 
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
-
-Please feel free to take these and run with them. Make them your own and find you own insights
-
-I really do hope this is helpful and helps you land that dream job! :D
+This SQL code cleans and transforms data in the NashvilleHousing table. It standardizes the date format, populates missing property addresses, splits address information into individual columns, and converts "Y" and "N" values to "Yes" and "No" in the SoldAsVacant column. Additionally, it removes duplicate rows and deletes unused columns, resulting in a cleaner and more structured dataset.
